@@ -5,6 +5,12 @@
 * The project can used in development environment
 
 * **Do not use in production environment**
+ 
+# Important
+
+* In WSL or Mac OS, the host OS **CAN NOT** connect to the MongoDB network.
+
+* If want to connect, you also need run your app in a container.
 
 ## Prerequisites
 
